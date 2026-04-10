@@ -2,7 +2,7 @@
 
 Generate stunning random gradients effortlessly! This web app creates beautiful color combinations for your design projects. Click "Generate" to create a new gradient and "Copy" to get the CSS code.
 
-🚀 **Live Demo:** [https://iam269.github.io/Random-Gradient-Generator/](https://iam269.github.io/Random-Gradient-Generator/)
+🚀 **Live Demo:** [https://itsiamdev.github.io/Random-Gradient-Generator/](https://itsiamdev.github.io/Random-Gradient-Generator/)
 
 ## ✨ Features
 - 🎯 Instant gradient generation
